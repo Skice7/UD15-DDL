@@ -1,4 +1,4 @@
-drop database DMLej2;
+/*drop database DMLej2;*/
 create database DMLej2;
 use DMLej2;
 
